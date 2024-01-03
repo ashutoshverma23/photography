@@ -2585,11 +2585,13 @@ input, select, textarea {
 
 	.image {
 		border: 0;
+		border-radius: 8px;
 		display: inline-block;
 		position: relative;
 	}
 
 		.image img {
+			
 			display: block;
 		}
 
